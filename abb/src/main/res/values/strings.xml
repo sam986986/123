@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="new_t001">A</string>
+    <string name="new_t002">B</string>
+</resources>
